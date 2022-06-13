@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap");
+
+body {
+  margin: 0;
+  padding: 0;
+
+  /* Courier New */
+  font-family: "Montserrat", sans-serif;
+  /* background-color: grey; */
+}
+
+h1 {
+  /* Copperplate */
+  /* Didot */
+}
+
+.mainPage {
+  /* background-color: blue; */
+  /* height:500px; */
+  /* padding-top: 50px; */
+  /* margin-left: 20px; */
+  /* margin-right: 20px; */
+
+  /* max-width: 900px; */
+
+  text-align: center;
+
+  /* display: flex; */
+}
+
+#about {
+  padding-top: 80px;
+}
+
+#sevices {
+  padding-top: 80px;
+}
+
+#contact {
+  padding-top: 80px;
+}

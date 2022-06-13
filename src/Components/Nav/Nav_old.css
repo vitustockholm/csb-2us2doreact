@@ -1,0 +1,78 @@
+.nav {
+  background-color: #f0f0f0;
+
+  poadding: 0;
+  width: 100%;
+
+  position: fixed;
+  z-index: 2;
+  box-shadow: 0px 0.01px 2px 0px;
+}
+
+.logo {
+  /* background-color: green; */
+  /* display: inline-block; */
+  padding: 7px;
+  width: 100px;
+  font-size: large;
+  font-style: bold;
+
+  text-align: center;
+  align-items: center;
+  float: left;
+}
+
+.NavButtons {
+  /* background-color: red; */
+  padding: 5px;
+  /* position:fixed; */
+  text-align: center;
+  /* align-items: center; */
+  /* background-color: red; */
+}
+
+.NavLink {
+  display: inline-block;
+  padding: 5px;
+  padding-left: 20px;
+  text-decoration: none;
+
+  font-style: bold;
+  font-size: large;
+
+  color: #363636;
+  font-family: "ABeeZee";
+  /* background-color: red; */
+}
+
+/* alinks style*/
+
+a {
+  text-decoration: none;
+  font-weight: normal;
+  color: #363636;
+}
+
+a:link {
+  text-decoration: none;
+  color: #363636;
+}
+
+a:visited {
+  text-decoration: none;
+  font-weight: normal;
+  color: #363636;
+}
+
+a:hover {
+  text-decoration: none;
+  font-weight: normal;
+  color: orange;
+}
+
+a:active {
+  text-decoration: none;
+  font-weight: normal;
+  color: #363636;
+}
+/* ////---------------------- */

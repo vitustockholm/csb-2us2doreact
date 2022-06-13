@@ -1,0 +1,36 @@
+.text_Card {
+  /* background-color: red; */
+
+  /* padding-top: 30px; */
+  /* padding-bottom: 20px; */
+
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 40px;
+
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.line {
+  height: 1px;
+  width: 100px;
+
+  background-color: darkgrey;
+  margin: 0 auto;
+}
+
+.text_body {
+  /* margin-bottom: 40px; */
+  padding-top: 30px;
+  font-style: italic;
+
+  /* background-color: green; */
+}
+
+.text_heading {
+  /* color: rgb(54, 54, 54); */
+  font-size: 60px;
+
+  font-family: "Garamond", sans-serif;
+}
